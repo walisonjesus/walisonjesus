@@ -1,7 +1,7 @@
 ## Ola eu sou Walison Jesus !!!
 - 🔭 Atualmente não estou na área de tecnologia
 - 🌱 Estou estudando Python, html e css.
-- 📚 Faço faculdade de Ads estou no 5º periodo
+- 📚 Formado em Análise e Desenvolvimento de Sistemas
 
 <div>
   <a href="https://github.com/walisonjesus">
