@@ -1,7 +1,7 @@
 ## Ola eu sou Walison Jesus !!!
 - 🔭 Atualmente não estou na área de tecnologia
-- 🌱 Estou estudando Python, html e css.
-- 📚 Formado em Análise e Desenvolvimento de Sistemas
+- 🌱 Atualmente me especializando na area de frontend.
+- 📚 Formado em Análise e Desenvolvimento de Sistemas.
 
 <div>
   <a href="https://github.com/walisonjesus">
